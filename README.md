@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 📊 Intra Stats:
-[![<rbattal>'s 42 stats](https://badge.mediaplus.ma/darkgray/<rbattal>)](https://github.com/rbattal/badge42)
+<figure>
+  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
+</figure>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=recepbattal&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=recepbattal&theme=chartreuse-dark&hide_border=true)
