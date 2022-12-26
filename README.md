@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure>
-  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
-</figure>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=recepbattal&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=recepbattal&theme=chartreuse-dark&hide_border=true)
