@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Ecole42 CommonCore.
+- 🌱 I’m currently learning C and Python.
+- 📫 How to reach me: rbattal@student.42kocaeli.com.tr
 <!--
 **recepbattal/recepbattal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
