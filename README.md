@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Ecole42 CommonCore.
+- 🔭 I’m currently working on Ecole42 CommonCore projects.
 - 🌱 I’m currently learning C and Python.
 - 📫 How to reach me: rbattal@student.42kocaeli.com.tr
 <!--
